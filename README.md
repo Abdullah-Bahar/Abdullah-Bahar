@@ -38,12 +38,12 @@ Merhaba! Ben Abdullah Bahar. GitHub sayfamda çeşitli projeler yer almaktadır.
 - **[SQLite-Kullanimi](https://github.com/Abdullah-Bahar/SQLite-Kullanimi)**  
   Android uygulaması üzerinden SQLite veritabanı kullanarak CRUD işlemleri ve çalışan profili yönetimi örnekleri sunan bir proje.
 
-## :brick: C
+## :desktop_computer: C
 
 - **[42-Piscine](https://github.com/Abdullah-Bahar/42-Piscine)**  
   42 İstanbul'un Havuz dönemince yapılan çalışmalar.
 
-## C :heavy_plus_sign: :heavy_plus_sign: 
+## :heavy_plus_sign: C++ 
 
 - **[Cpp-Data-Structure](https://github.com/Abdullah-Bahar/Cpp-Data-Structure)**  
   C++ ile geliştirilmiş Linked List çeşitleri ve sorting algoritmaları
@@ -64,7 +64,7 @@ Merhaba! Ben Abdullah Bahar. GitHub sayfamda çeşitli projeler yer almaktadır.
 - **[AI-Project](https://github.com/Abdullah-Bahar/AI-Project)**  
   Python ile geliştirilmiş, Pakistan’daki intihar saldırıları veri seti üzerinden ölü ve yaralı sayısını tahmin eden yapay zeka projesi.
 
-## :desktop_computer: Server & System
+## :gear: Server & System
 
 - **[Windows-Server-Ve-Sistem-Yoneticiligi](https://github.com/Abdullah-Bahar/Windows-Server-Ve-Sistem-Yoneticiligi)**  
   Udemy'deki "Windows Sercer ve Sistem Yöneticiliği" eğitimi kaspamında aldığım notlar.
