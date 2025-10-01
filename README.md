@@ -38,12 +38,12 @@ Merhaba! Ben Abdullah Bahar. GitHub sayfamda çeşitli projeler yer almaktadır.
 - **[SQLite-Kullanimi](https://github.com/Abdullah-Bahar/SQLite-Kullanimi)**  
   Android uygulaması üzerinden SQLite veritabanı kullanarak CRUD işlemleri ve çalışan profili yönetimi örnekleri sunan bir proje.
 
-## :flag_c: C
+## :brick: C
 
 - **[42-Piscine](https://github.com/Abdullah-Bahar/42-Piscine)**  
   42 İstanbul'un Havuz dönemince yapılan çalışmalar.
 
-## :heavy_plus_sign: :heavy_plus_sign: C++
+## C :heavy_plus_sign: :heavy_plus_sign: 
 
 - **[Cpp-Data-Structure](https://github.com/Abdullah-Bahar/Cpp-Data-Structure)**  
   C++ ile geliştirilmiş Linked List çeşitleri ve sorting algoritmaları
