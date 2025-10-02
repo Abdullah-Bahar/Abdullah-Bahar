@@ -4,14 +4,14 @@ Merhaba! Ben Abdullah Bahar. GitHub sayfamda çeşitli projeler yer almaktadır.
 
 ## :book: Fihrist
 
-- [Web Geliştirme](#web-geliştirme)
-- [Java](#java)
-- [C](#c)
-- [C++](#c++)
-- [Python](#python)
-- [Yapay Zeka (AI)](#yapay-zeka-ai)
-- [Server & System](#server--system)
-- [Cyber Security](#cyber-security)
+- [Web Geliştirme](#globe_with_meridians-web-geliştirme)
+- [Java](#coffee-java)
+- [C](#desktop_computer-c)
+- [C++](#heavy_plus_sign-c)
+- [Python](#snake-pyhton)
+- [Yapay Zeka (AI)](#brain-yapay-zeka-ai)
+- [Server & System](#gear-server--system)
+- [Cyber Security](#lock-cyber-security)
 
 ## :globe_with_meridians: Web Geliştirme
 
