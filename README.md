@@ -48,12 +48,12 @@ Merhaba! Ben Abdullah Bahar. GitHub sayfamda çeşitli projeler yer almaktadır.
 - **[Cpp-Data-Structure](https://github.com/Abdullah-Bahar/Cpp-Data-Structure)**  
   C++ ile geliştirilmiş Linked List çeşitleri ve sorting algoritmaları
 
-- **[Cpp-Data-Structure](https://github.com/Abdullah-Bahar/OpenGL-Examples)**  
+- **[OpenGL-Examples](https://github.com/Abdullah-Bahar/OpenGL-Examples)**  
   OpenGL kütüphanesi kullanılarak yapılmış örnekleri içermektedir.
 
 ## :snake: Pyhton
 
-- **[Cpp-Data-Structure](https://github.com/Abdullah-Bahar/Python-Data-Structure)**  
+- **[Python-Data-Structure](https://github.com/Abdullah-Bahar/Python-Data-Structure)**  
   Pyhton ile veri yapıları uygulamaları
 
 - **[Python](https://github.com/Abdullah-Bahar/Python)**  
@@ -73,9 +73,6 @@ Merhaba! Ben Abdullah Bahar. GitHub sayfamda çeşitli projeler yer almaktadır.
   Üniversitede Python dersinde sınıfça yüklediğimiz ödevlerin bulunduğu repo.
 
 ## :lock: Cyber Security
-
-- **[CyberExam](https://github.com/Abdullah-Bahar/CyberExam)**  
-  CyberExam platformu üzerindeki çalışmalarımın nihayeti olan notlarım.
 
 - **[Etik-Hacker-Olma](https://github.com/Abdullah-Bahar/Etik-Hacker-Olma)**  
   Udemy'deki "Etik Hacker Olma" kursu kapsamında aldığım notlar.
